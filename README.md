@@ -73,5 +73,3 @@ expense tracking, budgeting, and spending analytics.
 ---
 
 ⭐ Thanks for visiting my profile!
-- ⚡ Fun fact: ...
--->
