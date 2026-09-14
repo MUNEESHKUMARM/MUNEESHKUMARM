@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Muneeshkumar M 👋
 
 ### B.Tech IT Student | Full Stack Developer | Flutter Developer | AI Enthusiast
