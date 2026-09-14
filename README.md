@@ -1,130 +1,171 @@
-<!-- ========================= -->
-<!--       HERO SECTION        -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                    HERO SECTION                       -->
+<!-- ====================================================== -->
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FFF,100:FF2D95&height=220&section=header&text=MUNEESHKUMAR%20M&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+
 # 👋 Hi, I'm Muneeshkumar M
 
-### B.Tech IT Student | Full Stack Developer | Flutter Developer | AI Enthusiast
+### 💻 Full Stack Developer | 📱 Flutter Developer | 🤖 AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%F0%9F%92%BB;Flutter+Application+Developer+%F0%9F%93%B1;AI+Application+Builder+%F0%9F%A4%96;Backend+%26+API+Developer+%E2%9A%A1;Real-Time+Application+Developer+%F0%9F%94%A5;Always+Learning+%26+Building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Building+Modern+Web+Applications+%F0%9F%92%BB;Building+Flutter+Mobile+Applications+%F0%9F%93%B1;Exploring+AI-Powered+Solutions+%F0%9F%A4%96;Developing+Real-Time+Applications+%E2%9A%A1;Building+REST+APIs+%26+Backend+Systems+%F0%9F%94%A5;Always+Learning.+Always+Building.+%F0%9F%9A%80"/>
 
 <br/>
 
 <a href="https://muneeshkumarportfolio.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/muneeshkumar-m">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect-7B2FFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:muneeshkumar.tech@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/MUNEESHKUMARM">
-<img src="https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧%20EMAIL-Contact-FF2D55?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=MUNEESHKUMARM&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=MUNEESHKUMARM&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
-
-🎓 **B.Tech Information Technology Student**
-
-💻 Passionate about **Full Stack Development**
-
-📱 Building modern **Flutter applications**
-
-🤖 Exploring **AI-powered applications**
-
-⚡ Interested in **Real-Time Systems, APIs & Backend Engineering**
-
-🗄️ Working with **MySQL, MongoDB, SQLite & Firebase**
-
-🔐 Interested in **Authentication, Security & Scalable Architecture**
-
-🌱 Currently improving **Backend Development, AI, Cloud & DevOps**
-
-💼 Open to **Software Engineering | Full Stack | Flutter | AI Opportunities**
-
----
-
-# 🎯 My Developer Focus
+# 🌟 INTRODUCTION
 
 <div align="center">
 
-| 💻 Area | 🚀 Focus |
-|---|---|
-| Frontend | React.js • JavaScript • HTML • CSS |
-| Mobile | Flutter |
-| Backend | FastAPI • REST APIs • WebSockets |
-| Database | MySQL • MongoDB • SQLite • Firebase |
-| Programming | Java • Python • JavaScript • C |
-| AI | AI-powered Applications • Python |
-| Security | JWT • Authentication • RBAC |
-| DevOps | Git • GitHub • Docker |
-| Cloud | AWS Basics |
-| Design | Figma • UI/UX |
+> 🎓 **B.Tech Information Technology Student**
+>
+> 💻 **Full Stack Developer**
+>
+> 📱 **Flutter Developer**
+>
+> 🤖 **AI Enthusiast**
+>
+> ⚡ **Real-Time Application Builder**
+
+</div>
+
+I love turning ideas into **practical, scalable and user-focused software applications**.
+
+My primary interests include **Full Stack Development, Flutter, AI-powered applications, backend engineering, REST APIs, databases and real-time systems**.
+
+---
+
+# 🎯 DEVELOPER FOCUS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💻
+**FULL STACK**
+
+React.js  
+FastAPI  
+REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### 📱
+**MOBILE**
+
+Flutter  
+Dart  
+SQLite
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+**AI**
+
+Python  
+AI Apps  
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+**REAL-TIME**
+
+WebSockets  
+APIs  
+Live Systems
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🛠️ Technologies & Tools
+# 🛠️ TECHNOLOGIES & TOOLS
 
 <div align="center">
 
-## 💻 Languages
+## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" />
 
 <br/><br/>
 
 ## 🎨 Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=html,css,react,flutter" />
+<img src="https://skillicons.dev/icons?i=html,css,react,flutter&theme=dark" />
 
 <br/><br/>
 
 ## ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" />
 
 <br/><br/>
 
 ## 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase&theme=dark" />
 
 <br/><br/>
 
-## 🔧 Tools
+## 🔧 Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,figma&theme=dark" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
-## 🔐 AI-Driven Cyber Digital Twin Platform ⭐
+<div align="center">
+
+## 🔐 AI-DRIVEN CYBER DIGITAL TWIN
 
 ### `React.js • FastAPI • MySQL • JWT • Python`
 
-AI-ready cybersecurity platform designed for digital twin visualization,
-threat monitoring, risk prediction and real-time dashboard reporting.
+<img src="https://img.shields.io/badge/AI-Powered-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Platform-FF2D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack-Application-7B2FFF?style=for-the-badge"/>
 
-**✨ Features**
+</div>
+
+AI-ready cybersecurity platform focused on **digital twin visualization,
+threat monitoring, risk prediction and real-time dashboard reporting**.
+
+### ✨ Key Features
 
 - 🔐 JWT Authentication
 - 📧 Email OTP Verification
@@ -135,18 +176,23 @@ threat monitoring, risk prediction and real-time dashboard reporting.
 - 🔌 RESTful APIs
 - 🧩 Modular Backend Architecture
 
-**🎯 Focus:** Cybersecurity + Full Stack + AI
-
 ---
 
-## 🤝 Real-Time Collaborative Document Editor ⭐
+<div align="center">
+
+## 🤝 REAL-TIME COLLABORATIVE DOCUMENT EDITOR
 
 ### `React.js • FastAPI • WebSocket • MySQL`
 
-A real-time collaborative document platform designed for
-multiple users to edit documents simultaneously.
+<img src="https://img.shields.io/badge/Real--Time-WebSockets-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge"/>
 
-**✨ Features**
+</div>
+
+Collaborative document editing system designed for **multiple users to work simultaneously in real time**.
+
+### ✨ Key Features
 
 - ⚡ Real-Time Communication
 - 🔄 WebSocket Integration
@@ -155,18 +201,24 @@ multiple users to edit documents simultaneously.
 - 🗄️ MySQL Integration
 - 🧱 Full Stack Architecture
 
-**🎯 Focus:** Real-Time Systems + Backend Engineering
-
 ---
 
-## 💰 Expense Mate ⭐
+<div align="center">
+
+## 💰 EXPENSE MATE
 
 ### `Flutter • SQLite • Firebase`
 
-Personal finance management application for expense tracking,
-budgeting and spending analytics.
+<img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQLite-Storage-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-**✨ Features**
+</div>
+
+Personal finance management application for **expense tracking,
+budgeting and financial analytics**.
+
+### ✨ Key Features
 
 - 💵 Income & Expense Tracking
 - 🎯 Budget Management
@@ -175,63 +227,77 @@ budgeting and spending analytics.
 - 🔐 Firebase Authentication
 - 💾 SQLite Local Storage
 
-**🎯 Focus:** Flutter + Mobile Development + Data Management
-
 ---
 
-# 💼 Internship Experience
+# 💼 INTERNSHIP EXPERIENCE
 
-## 🌐 Web Development Intern
+<div align="center">
 
-### AB Technologies
+<img src="https://img.shields.io/badge/AB%20Technologies-Web%20Development-00F7FF?style=for-the-badge"/>
+
+### 🌐 Web Development Intern
 `Nov 2025 – Dec 2025`
+
+</div>
 
 - Built responsive login interfaces using HTML, CSS and JavaScript
 - Developed a responsive portfolio website
-- Used AI-assisted development tools during implementation
+- Used AI-assisted development tools
 
 ---
 
-## 💻 Full Stack Web Development Intern
+<div align="center">
 
-### CodTech IT Solutions
+<img src="https://img.shields.io/badge/CodTech%20IT%20Solutions-Full%20Stack-7B2FFF?style=for-the-badge"/>
+
+### 💻 Full Stack Web Development Intern
 `Jul 2025 – Aug 2025`
 
-- Developed a real-time Weather Application using REST APIs
+</div>
+
+- Developed a real-time Weather Application
 - Built a Real-Time Collaborative Document Editor
 - Worked with React.js, FastAPI, WebSocket and MySQL
 - Used Git and GitHub for version control
 
 ---
 
-# 📚 Education
+# 🎓 EDUCATION
 
-### 🎓 Bachelor of Technology — Information Technology
+<div align="center">
 
-**AAA College of Engineering and Technology**
+<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-00F7FF?style=for-the-badge"/>
 
-Sivakasi, Tamil Nadu
+### AAA College of Engineering and Technology
 
-**CGPA: 8.20 / 10**
+**Sivakasi, Tamil Nadu**
 
----
+🎓 **CGPA: 8.20 / 10**
 
-# 🏆 Certifications
-
-🎖️ Technical Support Fundamentals — Coursera
-
-🎖️ Career Edge - Young Professional — TCS iON
-
-🎖️ AWS Cloud Practitioner Essentials
+</div>
 
 ---
 
-# 📊 GitHub Statistics
+# 🏆 CERTIFICATIONS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Coursera-Technical%20Support%20Fundamentals-00F7FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TCS%20iON-Career%20Edge-7B2FFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=MUNEESHKUMARM&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=MUNEESHKUMARM&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
 
 <img height="180"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUNEESHKUMARM&layout=compact&hide_border=true&theme=tokyonight"/>
@@ -248,61 +314,127 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUNEESHKUMAR
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MUNEESHKUMARM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MUNEESHKUMARM&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUNEESHKUMARM&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUNEESHKUMARM&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 🧠 Coding Profiles
+# 💡 DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+### 🚀 BUILD
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+### 🧠 LEARN
+
+### 🛠️ SOLVE
+
+### 🌍 IMPROVE
+
+### 🔥 REPEAT
 
 </div>
 
-> Add your actual coding-profile URLs above before using them.
+---
+
+# 🌱 CURRENTLY LEARNING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20Backend-00F7FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Applications-7B2FFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-FF2D95?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System%20Design-00FFA3?style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 📌 Current Goals
+# 📊 WHAT I BUILD
+
+<div align="center">
+
+<table>
+<tr>
+<td>💻 Web Applications</td>
+<td>📱 Mobile Applications</td>
+</tr>
+
+<tr>
+<td>🤖 AI Applications</td>
+<td>⚡ Real-Time Systems</td>
+</tr>
+
+<tr>
+<td>🔌 REST APIs</td>
+<td>🗄️ Database Applications</td>
+</tr>
+
+<tr>
+<td>🔐 Secure Applications</td>
+<td>☁️ Cloud-Ready Systems</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🎯 DEVELOPMENT JOURNEY
 
 ```text
-✅ Build production-ready applications
-✅ Improve Data Structures & Algorithms
-✅ Strengthen Backend Architecture
-✅ Build AI-powered applications
-✅ Learn Cloud & DevOps
-✅ Contribute to Open Source
-✅ Prepare for Software Engineering Roles
+        🎓 B.Tech IT
+             │
+             ▼
+      💻 Programming
+      Java • Python • C
+             │
+             ▼
+      🌐 Full Stack
+      React • FastAPI
+             │
+             ▼
+       📱 Flutter
+      Mobile Applications
+             │
+             ▼
+       🤖 AI Systems
+      AI + Automation
+             │
+             ▼
+       ⚡ Real-Time
+      WebSockets + APIs
+             │
+             ▼
+       ☁️ Cloud & DevOps
+             │
+             ▼
+       🚀 Production Systems
